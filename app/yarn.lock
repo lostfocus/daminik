@@ -1675,20 +1675,20 @@
     preact "^10.5.13"
 
 "@uppy/dashboard@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/dashboard/-/dashboard-4.0.0.tgz#733297eb58fe02fdb8408eda41f1e29199d07543"
-  integrity sha512-upnPFYEWxw4p+qFlkVwCQFLuRmB5ptzxNbvWFvjrJPmbidWYv+4S+VxkpPDqjCRGRs96OKVLT3Pz/KVhvWn+kA==
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/@uppy/dashboard/-/dashboard-4.3.2.tgz#215c94b8c724784415b1ff94e07bb751bbbdef53"
+  integrity sha512-6cikgcY/TMy+Fq/v03QI1BNocfm1kOxii3kuUaxnz1SFGeuZ/55+C7KKL7SP/IdeoVwH7KV+550HThT0uwIQEw==
   dependencies:
     "@transloadit/prettier-bytes" "^0.3.4"
-    "@uppy/informer" "^4.0.0"
-    "@uppy/provider-views" "^4.0.0"
-    "@uppy/status-bar" "^4.0.0"
-    "@uppy/thumbnail-generator" "^4.0.0"
-    "@uppy/utils" "^6.0.0"
+    "@uppy/informer" "^4.2.1"
+    "@uppy/provider-views" "^4.4.2"
+    "@uppy/status-bar" "^4.1.2"
+    "@uppy/thumbnail-generator" "^4.1.1"
+    "@uppy/utils" "^6.1.2"
     classnames "^2.2.6"
     lodash "^4.17.21"
     memoize-one "^6.0.0"
-    nanoid "^5.0.0"
+    nanoid "^5.0.9"
     preact "^10.5.13"
     shallow-equal "^3.0.0"
 
@@ -1700,12 +1700,12 @@
     "@uppy/utils" "^6.0.0"
     preact "^10.5.13"
 
-"@uppy/informer@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/informer/-/informer-4.0.0.tgz#6753eeb25a61f8de37049c7f53f3e149ef9fa3d3"
-  integrity sha512-xIiN7vJuBeOtzkPvECCXonGk7Z0hBktKSeq76/LZ2o7HYyDOhC2DdX8g0EBKM1i3TLTp93JVKERXCyuupLKETQ==
+"@uppy/informer@^4.2.1":
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@uppy/informer/-/informer-4.2.1.tgz#35c6d8750f1a388fea51307821d54106fdec7193"
+  integrity sha512-0en8Py47pl6RMDrgUfqFoF807W5kK5AKVJNT1SkTsLiGg5anmTIMuvmNG3k6LN4cn9P/rKyEHSdGcoBBUj9u7Q==
   dependencies:
-    "@uppy/utils" "^6.0.0"
+    "@uppy/utils" "^6.1.1"
     preact "^10.5.13"
 
 "@uppy/locales@^4.0.0":
@@ -1715,24 +1715,24 @@
   dependencies:
     "@uppy/utils" "^6.0.0"
 
-"@uppy/provider-views@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/provider-views/-/provider-views-4.0.0.tgz#9f98c24d425429c739d67c9f0d6d2d56ead28c16"
-  integrity sha512-sFRPofSuPQ6pgECi0YR1Ml2eEhyIqaIGKwg8XjzhcfVT1POB5B/evQ/ocYJgZyZ2qb1TAKyzeBRbiSH+2C2Uaw==
+"@uppy/provider-views@^4.4.2":
+  version "4.4.2"
+  resolved "https://registry.yarnpkg.com/@uppy/provider-views/-/provider-views-4.4.2.tgz#bb5a2d662c05fd81ced263dc4e6f55add23df254"
+  integrity sha512-YGrPJuydrksmMCjvo7Ty7/lDLNo/Y8zsOgWgWmVbXB0V5aRvqY49LeKY8HDlOXclKmn6dl5CeQFf7p46txRNGQ==
   dependencies:
-    "@uppy/utils" "^6.0.0"
+    "@uppy/utils" "^6.1.2"
     classnames "^2.2.6"
-    nanoid "^5.0.0"
+    nanoid "^5.0.9"
     p-queue "^8.0.0"
     preact "^10.5.13"
 
-"@uppy/status-bar@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/status-bar/-/status-bar-4.0.0.tgz#84495a48f32c9bc2c1ccc01bc4cb1acccdeaedd7"
-  integrity sha512-r5b83zsuH1A9Gdx3MCS0EE5k+/K9AYP4JNO0EBSe956gGm76JOfvkNtedIe4Vv49lZVEB4QztzC1bbkHg5TOdw==
+"@uppy/status-bar@^4.1.2":
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/@uppy/status-bar/-/status-bar-4.1.2.tgz#cc0144789870174e62b8e4532ac1714741073f6f"
+  integrity sha512-Z2fDXItoE940uMo3kwdDo4ZFPjTk5GY6y/C/G5+tSl6nL/IaDtWo5iVbAKHIH4s9SIRwCBgllEhxbmEPhuK7eA==
   dependencies:
     "@transloadit/prettier-bytes" "^0.3.4"
-    "@uppy/utils" "^6.0.0"
+    "@uppy/utils" "^6.1.2"
     classnames "^2.2.6"
     preact "^10.5.13"
 
@@ -1741,18 +1741,18 @@
   resolved "https://registry.yarnpkg.com/@uppy/store-default/-/store-default-4.0.0.tgz#814bd5e2670abf00ca9ec2d5b66752350c4e3bf0"
   integrity sha512-iUB2C7+6NkXoCh8xp06pyn1xeMtQgRuX9F2ahhrXDwNsD6mwKa5wgsJSnnlmXLD6fKVkfne55dLMalJ1pSIr2Q==
 
-"@uppy/thumbnail-generator@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/thumbnail-generator/-/thumbnail-generator-4.0.0.tgz#0fb339aa4a55d3ed991e6a342594167f39006944"
-  integrity sha512-nwgRO/LHLzUqzyB1TDl6g8LNmqtkswXpvRNcPij0gOrPTTWjGY6ULv+ywXYiF5baWF2aGS+K62jJSUGBWonx0w==
+"@uppy/thumbnail-generator@^4.1.1":
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/@uppy/thumbnail-generator/-/thumbnail-generator-4.1.1.tgz#a6b902a22421d01f14313bd72fa71e634548b906"
+  integrity sha512-65znkGNgVTbVte51IKOhgxOpHGSwYj9Qik2jF2ZBocMbhBY4gPkWFwqMrKQBfddA9KbUa4jVe1psxhAQTzYgiA==
   dependencies:
-    "@uppy/utils" "^6.0.0"
+    "@uppy/utils" "^6.1.1"
     exifr "^7.0.0"
 
-"@uppy/utils@^6.0.0":
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-6.0.0.tgz#a59867318f4b387ca0e671399b957748a812c12e"
-  integrity sha512-24mvEYlt189setvd0z8l3LJRxiq+W8UAZ3lCHRP1Qzq6rSdd/cVaTiIgV+0ZvNnZMmiEKeKdEcfFG3VeGvE3dg==
+"@uppy/utils@^6.0.0", "@uppy/utils@^6.1.1", "@uppy/utils@^6.1.2":
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-6.1.2.tgz#a58c6506e06d6c4c01c4cf13f6fb30c6c7df37ab"
+  integrity sha512-PCrw6v51M6p3hlrlB2INmcocen4Dyjun1SobjVZRBkg4wutQE8ihZfSrH5ZE8UXFelufhtO16wlaZMi0EHk84w==
   dependencies:
     lodash "^4.17.21"
     preact "^10.5.13"
@@ -4831,20 +4831,15 @@ namespace-emitter@^2.0.1:
   resolved "https://registry.yarnpkg.com/namespace-emitter/-/namespace-emitter-2.0.1.tgz#978d51361c61313b4e6b8cf6f3853d08dfa2b17c"
   integrity sha512-N/sMKHniSDJBjfrkbS/tpkPj4RAbvW3mr8UAzvlMHyun93XEm83IAvhWtJVHo+RHn/oO8Job5YN4b+wRjSVp5g==
 
-nanoid@^3.3.6:
-  version "3.3.6"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.6.tgz#443380c856d6e9f9824267d960b4236ad583ea4c"
-  integrity sha512-BGcqMMJuToF7i1rt+2PWSNVnWIkGCU78jBG3RxO/bZlnZPK2Cmi2QaffxGO/2RvWi9sL+FAiRiXMgsyxQ1DIDA==
-
-nanoid@^3.3.7:
+nanoid@^3.3.6, nanoid@^3.3.7:
   version "3.3.7"
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
-nanoid@^5.0.0:
-  version "5.0.7"
-  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-5.0.7.tgz#6452e8c5a816861fd9d2b898399f7e5fd6944cc6"
-  integrity sha512-oLxFY2gd2IqnjcYyOXD8XGCftpGtZP2AbHbOkthDkvRywH5ayNtPVy9YlOPcHckXzbLTCHpkb7FB+yuxKV13pQ==
+nanoid@^5.0.0, nanoid@^5.0.9:
+  version "5.1.5"
+  resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-5.1.5.tgz#f7597f9d9054eb4da9548cdd53ca70f1790e87de"
+  integrity sha512-Ir/+ZpE9fDsNH0hQ3C68uyThDXzYcim2EqcZ8zn8Chtt1iylPT9xXJB0kPCnqzgcEGikO9RxSrh63MsmVCU7Fw==
 
 natural-compare@^1.4.0:
   version "1.4.0"
