@@ -22,3 +22,5 @@ app/dist/*
 .php-cs-fixer.cache
 app/tools/php-cs-fixer/vendor
 app/config/pesdk_html5_license
+yarn.lock
+node_modules/.yarn-integrity
