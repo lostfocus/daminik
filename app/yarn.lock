@@ -1648,17 +1648,17 @@
     p-retry "^6.1.0"
 
 "@uppy/core@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/core/-/core-4.0.0.tgz#9c6d232ffad81b98b354b8ee6059e7e7621fb6c3"
-  integrity sha512-mscPYbsq9N8lrq3ZWp9txlmXXW8dNIuqLA+eNFF+S02vbfF9hUBK1IbB8hl6sjmkxDC+KeyQD6hPDe57e64qUg==
+  version "4.4.3"
+  resolved "https://registry.yarnpkg.com/@uppy/core/-/core-4.4.3.tgz#2c3c4a07aed03f8525f9626c9f93a2463ff94c08"
+  integrity sha512-Ma/v9+u0xYoxFcTajBpe0TUHI0Vjw2IKgB0AUNevhgFsBRgA03nL5n8Fac8TrC0QjPkYu7h0n2xf2EgzvyxAQA==
   dependencies:
     "@transloadit/prettier-bytes" "^0.3.4"
-    "@uppy/store-default" "^4.0.0"
-    "@uppy/utils" "^6.0.0"
+    "@uppy/store-default" "^4.2.0"
+    "@uppy/utils" "^6.1.2"
     lodash "^4.17.21"
     mime-match "^1.0.2"
     namespace-emitter "^2.0.1"
-    nanoid "^5.0.0"
+    nanoid "^5.0.9"
     preact "^10.5.13"
 
 "@uppy/dashboard@^4.0.0":
@@ -1723,10 +1723,10 @@
     classnames "^2.2.6"
     preact "^10.5.13"
 
-"@uppy/store-default@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/store-default/-/store-default-4.0.0.tgz#814bd5e2670abf00ca9ec2d5b66752350c4e3bf0"
-  integrity sha512-iUB2C7+6NkXoCh8xp06pyn1xeMtQgRuX9F2ahhrXDwNsD6mwKa5wgsJSnnlmXLD6fKVkfne55dLMalJ1pSIr2Q==
+"@uppy/store-default@^4.2.0":
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/@uppy/store-default/-/store-default-4.2.0.tgz#fb91a8e76639baf0639bfd31c604838bbf2529f3"
+  integrity sha512-PieFVa8yTvRHIqsNKfpO/yaJw5Ae/hT7uT58ryw7gvCBY5bHrNWxH5N0XFe8PFHMpLpLn8v3UXGx9ib9QkB6+Q==
 
 "@uppy/thumbnail-generator@^4.1.1":
   version "4.1.1"
@@ -5212,7 +5212,7 @@ nanoid@^3.3.6, nanoid@^3.3.7:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
   integrity sha512-eSRppjcPIatRIMC1U6UngP8XFcz8MQWGQdt1MTBQ7NaAmvXDfvNxbvWV3x2y6CdEUciCSsDHDQZbhYaB8QEo2g==
 
-nanoid@^5.0.0, nanoid@^5.0.9:
+nanoid@^5.0.9:
   version "5.1.5"
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-5.1.5.tgz#f7597f9d9054eb4da9548cdd53ca70f1790e87de"
   integrity sha512-Ir/+ZpE9fDsNH0hQ3C68uyThDXzYcim2EqcZ8zn8Chtt1iylPT9xXJB0kPCnqzgcEGikO9RxSrh63MsmVCU7Fw==
