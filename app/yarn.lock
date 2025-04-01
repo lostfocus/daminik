@@ -1493,12 +1493,12 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
-"@uppy/companion-client@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/companion-client/-/companion-client-4.0.0.tgz#99a1a60bf472dd9b30f2dbdfeb7f5b2f10be1de5"
-  integrity sha512-U12JcWApKRgs11ahJo/WJSOlfUNdH24mxGxrQv+x35Y/rLTG62Te9QsHGD0vFa2zSSVrIUm47sHxeqFJfOo9VA==
+"@uppy/companion-client@^4.4.1":
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/@uppy/companion-client/-/companion-client-4.4.1.tgz#ad7ae903b45f51fa60cf792dbf6e7e5e1cf0c453"
+  integrity sha512-ardMacShsfzaIbqHEH48YlpzWZkBj1qhAj0Dvn3r31p9d0HA5xFUvAdLYrZ6ezKvZ0RcDbf0SB5qCrQMkjscXQ==
   dependencies:
-    "@uppy/utils" "^6.0.0"
+    "@uppy/utils" "^6.1.1"
     namespace-emitter "^2.0.1"
     p-retry "^6.1.0"
 
@@ -1600,12 +1600,12 @@
     preact "^10.5.13"
 
 "@uppy/xhr-upload@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/xhr-upload/-/xhr-upload-4.0.0.tgz#6684e3b6b673fc1e085ce8f9bcb10bcf071333bf"
-  integrity sha512-sgc/1SYYmOLzMiq35GPoFGLYVyz4pnsRrQ2uo/rzvdzT6isBZHLpuW8bGZTI7appv7GMA0l09/9z11hW8HDzOQ==
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/@uppy/xhr-upload/-/xhr-upload-4.3.3.tgz#41f69b0c8697d7df25b15c58b243a4687b50809e"
+  integrity sha512-I7RVppwTvLRlVfoW5piMxcZKzWF42E6CwYFQ42d2LzizrkG4tVLQkQrTZlw85za3nhcSrX3o/d1eNx3pzLmsdw==
   dependencies:
-    "@uppy/companion-client" "^4.0.0"
-    "@uppy/utils" "^6.0.0"
+    "@uppy/companion-client" "^4.4.1"
+    "@uppy/utils" "^6.1.2"
 
 "@webassemblyjs/ast@1.14.1", "@webassemblyjs/ast@^1.14.1":
   version "1.14.1"
