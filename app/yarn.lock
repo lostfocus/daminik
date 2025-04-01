@@ -5526,9 +5526,9 @@ path-type@^4.0.0:
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
 
 photoeditorsdk@^5.19.0:
-  version "5.19.0"
-  resolved "https://registry.yarnpkg.com/photoeditorsdk/-/photoeditorsdk-5.19.0.tgz#014b1d1f620fe2b9316c611857050700ccb2f524"
-  integrity sha512-/GrrpAbQrHYBc+bMRS4UOqlTdmnJvv2Y9UL1W7db4lS2cwXRH5NvmaUGXTXndqw3mQkHdytLR+58sSivW/AJtg==
+  version "5.19.3"
+  resolved "https://registry.yarnpkg.com/photoeditorsdk/-/photoeditorsdk-5.19.3.tgz#7bcf3475f123b3f0b30e693fe4f1a10e8732627a"
+  integrity sha512-P4KG2FgvR1HV/jKL0nmWNMG6k+DW+WCv5lcOFLjrEAADCNqUuZKvUkifn+eMgwzeo2kEKOpSpR/OnbmPtJqarA==
 
 picocolors@^1.0.0:
   version "1.0.0"
