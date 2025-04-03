@@ -1551,11 +1551,11 @@
     preact "^10.5.13"
 
 "@uppy/locales@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@uppy/locales/-/locales-4.0.0.tgz#58f0236f6b5b6631fc11f523028f47040dfa0430"
-  integrity sha512-9Zh9T2eclSknVhSE4JkAZoyZtj8Df45u2mwIeMd4PquIN+Vp4Yo9upAV4vEzx2IY3I8MF/hOTvhxI9B1QOAoDQ==
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/@uppy/locales/-/locales-4.5.1.tgz#544ee5eb77398aff487150f56e1fb06c39f5f823"
+  integrity sha512-iq76rfvxwGAXo9iCydMZVOqEk0JOiMV8+tgT42fo3QY+PrlytJVBEitWP9CjOzHJjf/ZjmB614O+6S6JWfCjJw==
   dependencies:
-    "@uppy/utils" "^6.0.0"
+    "@uppy/utils" "^6.1.2"
 
 "@uppy/provider-views@^4.4.2":
   version "4.4.2"
@@ -1591,7 +1591,7 @@
     "@uppy/utils" "^6.1.1"
     exifr "^7.0.0"
 
-"@uppy/utils@^6.0.0", "@uppy/utils@^6.1.1", "@uppy/utils@^6.1.2":
+"@uppy/utils@^6.1.1", "@uppy/utils@^6.1.2":
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-6.1.2.tgz#a58c6506e06d6c4c01c4cf13f6fb30c6c7df37ab"
   integrity sha512-PCrw6v51M6p3hlrlB2INmcocen4Dyjun1SobjVZRBkg4wutQE8ihZfSrH5ZE8UXFelufhtO16wlaZMi0EHk84w==
