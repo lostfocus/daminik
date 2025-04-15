@@ -5836,16 +5836,16 @@
         },
         {
             "name": "symfony/password-hasher",
-            "version": "v7.1.6",
+            "version": "v7.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/password-hasher.git",
-                "reference": "2e618d1af51805e5a1fbda326d00b77c6c1037d5"
+                "reference": "d8bd3d66d074c0acba1214a0d42f5941a8e1e94d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/password-hasher/zipball/2e618d1af51805e5a1fbda326d00b77c6c1037d5",
-                "reference": "2e618d1af51805e5a1fbda326d00b77c6c1037d5",
+                "url": "https://api.github.com/repos/symfony/password-hasher/zipball/d8bd3d66d074c0acba1214a0d42f5941a8e1e94d",
+                "reference": "d8bd3d66d074c0acba1214a0d42f5941a8e1e94d",
                 "shasum": ""
             },
             "require": {
@@ -5888,7 +5888,7 @@
                 "password"
             ],
             "support": {
-                "source": "https://github.com/symfony/password-hasher/tree/v7.1.6"
+                "source": "https://github.com/symfony/password-hasher/tree/v7.2.0"
             },
             "funding": [
                 {
@@ -5904,7 +5904,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-09-25T14:20:29+00:00"
+            "time": "2024-09-25T14:21:43+00:00"
         },
         {
             "name": "symfony/polyfill-intl-grapheme",
@@ -7113,20 +7113,21 @@
         },
         {
             "name": "symfony/security-core",
-            "version": "v7.1.11",
+            "version": "v7.2.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/security-core.git",
-                "reference": "0931c6bb15b696e1a4da8405c255b3a8673dcb3c"
+                "reference": "466784ffcd0b5a16e05394335897f790b17d07e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/security-core/zipball/0931c6bb15b696e1a4da8405c255b3a8673dcb3c",
-                "reference": "0931c6bb15b696e1a4da8405c255b3a8673dcb3c",
+                "url": "https://api.github.com/repos/symfony/security-core/zipball/466784ffcd0b5a16e05394335897f790b17d07e4",
+                "reference": "466784ffcd0b5a16e05394335897f790b17d07e4",
                 "shasum": ""
             },
             "require": {
                 "php": ">=8.2",
+                "symfony/deprecation-contracts": "^2.5|^3",
                 "symfony/event-dispatcher-contracts": "^2.5|^3",
                 "symfony/password-hasher": "^6.4|^7.0",
                 "symfony/service-contracts": "^2.5|^3"
@@ -7179,7 +7180,7 @@
             "description": "Symfony Security Component - Core Library",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/security-core/tree/v7.1.11"
+                "source": "https://github.com/symfony/security-core/tree/v7.2.3"
             },
             "funding": [
                 {
@@ -7195,7 +7196,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-01-27T10:57:12+00:00"
+            "time": "2025-01-27T11:08:17+00:00"
         },
         {
             "name": "symfony/security-csrf",
@@ -7267,16 +7268,16 @@
         },
         {
             "name": "symfony/security-http",
-            "version": "v7.1.11",
+            "version": "v7.2.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/security-http.git",
-                "reference": "c5ef4cb3bb013cf02c1d8459d1c51bc9f616cd80"
+                "reference": "8478e95e273f8daa23bf4860dbad2a09d3fb3722"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/security-http/zipball/c5ef4cb3bb013cf02c1d8459d1c51bc9f616cd80",
-                "reference": "c5ef4cb3bb013cf02c1d8459d1c51bc9f616cd80",
+                "url": "https://api.github.com/repos/symfony/security-http/zipball/8478e95e273f8daa23bf4860dbad2a09d3fb3722",
+                "reference": "8478e95e273f8daa23bf4860dbad2a09d3fb3722",
                 "shasum": ""
             },
             "require": {
@@ -7286,7 +7287,7 @@
                 "symfony/http-kernel": "^6.4|^7.0",
                 "symfony/polyfill-mbstring": "~1.0",
                 "symfony/property-access": "^6.4|^7.0",
-                "symfony/security-core": "^6.4|^7.0",
+                "symfony/security-core": "^7.2",
                 "symfony/service-contracts": "^2.5|^3"
             },
             "conflict": {
@@ -7335,7 +7336,7 @@
             "description": "Symfony Security Component - HTTP Integration",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/security-http/tree/v7.1.11"
+                "source": "https://github.com/symfony/security-http/tree/v7.2.4"
             },
             "funding": [
                 {
@@ -7351,7 +7352,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-01-28T15:50:57+00:00"
+            "time": "2025-02-11T16:46:20+00:00"
         },
         {
             "name": "symfony/serializer",
