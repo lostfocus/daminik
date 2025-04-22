@@ -1177,7 +1177,7 @@
     schema-utils "^3.0.0"
 
 "@symfony/ux-autocomplete@file:vendor/symfony/ux-autocomplete/assets":
-  version "1.0.0"
+  version "2.23.0"
 
 "@symfony/webpack-encore@^4.6.1":
   version "4.7.0"
@@ -5418,11 +5418,6 @@ path-type@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-4.0.0.tgz#84ed01c0a7ba380afe09d90a8c180dcd9d03043b"
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
-
-photoeditorsdk@^5.19.0:
-  version "5.19.0"
-  resolved "https://registry.yarnpkg.com/photoeditorsdk/-/photoeditorsdk-5.19.0.tgz#014b1d1f620fe2b9316c611857050700ccb2f524"
-  integrity sha512-/GrrpAbQrHYBc+bMRS4UOqlTdmnJvv2Y9UL1W7db4lS2cwXRH5NvmaUGXTXndqw3mQkHdytLR+58sSivW/AJtg==
 
 picocolors@^1.0.0:
   version "1.0.0"
