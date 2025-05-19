@@ -1582,11 +1582,11 @@
     shallow-equal "^3.0.0"
 
 "@uppy/drag-drop@^4.0.0":
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/@uppy/drag-drop/-/drag-drop-4.1.2.tgz#26adf48bcdca6814777c15ad101cd8fb16e9b229"
-  integrity sha512-vD/T2NmS+2zHcdYSVzv4zmCBOm3Bcr2efPDu5A5U8351t84MFT6v5Lk2Il6EBzgDZ9OHpVGSrn2aMno2PhzaGQ==
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/@uppy/drag-drop/-/drag-drop-4.1.3.tgz#37b39550793bcaa0982a13792526ea27141820d7"
+  integrity sha512-oxWTIfIM6v28Krl1fv3wrixHshkNMrp0vGiDO8W2qOgP2zSJCVx9KTagj3BY2tn9iyy4A7yuQZXKPmmzgfPyaQ==
   dependencies:
-    "@uppy/utils" "^6.1.3"
+    "@uppy/utils" "^6.1.4"
     preact "^10.5.13"
 
 "@uppy/informer@^4.2.1":
@@ -1638,10 +1638,10 @@
     "@uppy/utils" "^6.1.1"
     exifr "^7.0.0"
 
-"@uppy/utils@^6.1.1", "@uppy/utils@^6.1.2", "@uppy/utils@^6.1.3":
-  version "6.1.3"
-  resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-6.1.3.tgz#34e18bfa9fbcad76ab3ab066eaeac3ec25c3add1"
-  integrity sha512-7WuTtMf0k1g962sE76mKy8aDV/kLeDrF8Wv1oTxaXQzUpmHBAoKd3FXLrQXu7TgM0XNHHRZXAckBttbVOWkKCw==
+"@uppy/utils@^6.1.1", "@uppy/utils@^6.1.2", "@uppy/utils@^6.1.3", "@uppy/utils@^6.1.4":
+  version "6.1.4"
+  resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-6.1.4.tgz#2fefa02e76b063f7412a7834bf1bdc82b305c0f4"
+  integrity sha512-VMad3BA8QwYu9GYwkOa7MkmgnUET0Q582/htjLAAcH2QXCFZsX7l59qRs/wW6nyR1tUJYU1XSAFlCTjjwTPecA==
   dependencies:
     lodash "^4.17.21"
     preact "^10.5.13"
