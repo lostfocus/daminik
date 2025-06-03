@@ -1598,11 +1598,11 @@
     preact "^10.5.13"
 
 "@uppy/locales@^4.0.0":
-  version "4.5.2"
-  resolved "https://registry.yarnpkg.com/@uppy/locales/-/locales-4.5.2.tgz#ed256232f32c033d3873a5a94ad6220f9847b58a"
-  integrity sha512-PZCLZzp0hvKV9lzH4OCyzQ6qyWE/9xY5DRdKTIJxGmeUU9qeIQKLxH9Jm2How6CUi+UBKZjnlI3jH0fcUcCfdQ==
+  version "4.5.3"
+  resolved "https://registry.yarnpkg.com/@uppy/locales/-/locales-4.5.3.tgz#6effd768819e577796b08b02a56779e7c95d3a8b"
+  integrity sha512-ZaLc3D963gwCETpbz1yZJU2J+hLX4gFwIo5pi+suTh2BWl47xFriDbkqSS1A963pTPbyriKQgNI2MnsqmQUQQg==
   dependencies:
-    "@uppy/utils" "^6.1.3"
+    "@uppy/utils" "^6.1.5"
 
 "@uppy/provider-views@^4.4.3":
   version "4.4.3"
@@ -1638,10 +1638,10 @@
     "@uppy/utils" "^6.1.1"
     exifr "^7.0.0"
 
-"@uppy/utils@^6.1.1", "@uppy/utils@^6.1.2", "@uppy/utils@^6.1.3", "@uppy/utils@^6.1.4":
-  version "6.1.4"
-  resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-6.1.4.tgz#2fefa02e76b063f7412a7834bf1bdc82b305c0f4"
-  integrity sha512-VMad3BA8QwYu9GYwkOa7MkmgnUET0Q582/htjLAAcH2QXCFZsX7l59qRs/wW6nyR1tUJYU1XSAFlCTjjwTPecA==
+"@uppy/utils@^6.1.1", "@uppy/utils@^6.1.2", "@uppy/utils@^6.1.3", "@uppy/utils@^6.1.4", "@uppy/utils@^6.1.5":
+  version "6.1.5"
+  resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-6.1.5.tgz#161203d440325a9417ad1e9010a6a6c1690e6e97"
+  integrity sha512-R+3l4ir01I6MzZ80t5CSBoOGvV9mCqLZC9FoNYVTp/lsanQ3yMAZFGLN/x7JVGO7oi/m/ykmNR1jAH+JTtXdFg==
   dependencies:
     lodash "^4.17.21"
     preact "^10.5.13"
