@@ -1631,9 +1631,9 @@
     preact "^10.5.13"
 
 "@uppy/locales@^4.0.0":
-  version "4.5.3"
-  resolved "https://registry.yarnpkg.com/@uppy/locales/-/locales-4.5.3.tgz#6effd768819e577796b08b02a56779e7c95d3a8b"
-  integrity sha512-ZaLc3D963gwCETpbz1yZJU2J+hLX4gFwIo5pi+suTh2BWl47xFriDbkqSS1A963pTPbyriKQgNI2MnsqmQUQQg==
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/@uppy/locales/-/locales-4.6.0.tgz#cb76429360d3a3762593df160570df6a870cb244"
+  integrity sha512-7VmUR8nCfyIPFiC4MMKE0r1nLxmuFSUbrSYM+FeYI4Ix39uPcSN2+0uy5XxvO5ahK7AJqQ7InEZvvmwcf+90LA==
   dependencies:
     "@uppy/utils" "^6.1.5"
 
