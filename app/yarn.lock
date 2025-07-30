@@ -1573,12 +1573,12 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
-"@uppy/companion-client@^4.4.1":
-  version "4.4.1"
-  resolved "https://registry.yarnpkg.com/@uppy/companion-client/-/companion-client-4.4.1.tgz#ad7ae903b45f51fa60cf792dbf6e7e5e1cf0c453"
-  integrity sha512-ardMacShsfzaIbqHEH48YlpzWZkBj1qhAj0Dvn3r31p9d0HA5xFUvAdLYrZ6ezKvZ0RcDbf0SB5qCrQMkjscXQ==
+"@uppy/companion-client@^4.5.1":
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/@uppy/companion-client/-/companion-client-4.5.1.tgz#35118b4a8d865ffe766dd921f44ba927fbf98a6c"
+  integrity sha512-gHgC/CajV4rxgFI3stttr2xHZbJxeldMUrNdcEqvtPwu9g7fvn7ejP5dmQSJRJqxOq1+NWNaOttihEcYHjd8BA==
   dependencies:
-    "@uppy/utils" "^6.1.1"
+    "@uppy/utils" "^6.2.1"
     namespace-emitter "^2.0.1"
     p-retry "^6.1.0"
 
@@ -1671,7 +1671,7 @@
     "@uppy/utils" "^6.1.1"
     exifr "^7.0.0"
 
-"@uppy/utils@^6.1.1", "@uppy/utils@^6.1.2", "@uppy/utils@^6.1.3", "@uppy/utils@^6.1.4", "@uppy/utils@^6.1.5", "@uppy/utils@^6.2.1":
+"@uppy/utils@^6.1.1", "@uppy/utils@^6.1.3", "@uppy/utils@^6.1.4", "@uppy/utils@^6.1.5", "@uppy/utils@^6.2.1":
   version "6.2.1"
   resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-6.2.1.tgz#69a9579bd1864ffcbc179042e553e34930503eeb"
   integrity sha512-snvbsepFXw1o9fOl8vnRtlBkT9/B0taZwo9rbKKCLjc1tWvBwJV4y8INOmn/+iYr+bEmYb5Cm6a1djHBChpsbg==
@@ -1680,12 +1680,12 @@
     preact "^10.5.13"
 
 "@uppy/xhr-upload@^4.0.0":
-  version "4.3.3"
-  resolved "https://registry.yarnpkg.com/@uppy/xhr-upload/-/xhr-upload-4.3.3.tgz#41f69b0c8697d7df25b15c58b243a4687b50809e"
-  integrity sha512-I7RVppwTvLRlVfoW5piMxcZKzWF42E6CwYFQ42d2LzizrkG4tVLQkQrTZlw85za3nhcSrX3o/d1eNx3pzLmsdw==
+  version "4.4.1"
+  resolved "https://registry.yarnpkg.com/@uppy/xhr-upload/-/xhr-upload-4.4.1.tgz#0131371659a8c06451553ada89ce12bd06a5866f"
+  integrity sha512-2b7ZL3bVZNMCnbM67t1TTTSFIRWZ1mTFXg2abI66X2e7F98Nu2pA8ZqBWQjYq4dGLFBkTl6zoZsuYUnZRDUifw==
   dependencies:
-    "@uppy/companion-client" "^4.4.1"
-    "@uppy/utils" "^6.1.2"
+    "@uppy/companion-client" "^4.5.1"
+    "@uppy/utils" "^6.2.1"
 
 "@webassemblyjs/ast@1.14.1", "@webassemblyjs/ast@^1.14.1":
   version "1.14.1"
