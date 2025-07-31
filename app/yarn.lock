@@ -1614,11 +1614,11 @@
     shallow-equal "^3.0.0"
 
 "@uppy/drag-drop@^4.0.0":
-  version "4.1.3"
-  resolved "https://registry.yarnpkg.com/@uppy/drag-drop/-/drag-drop-4.1.3.tgz#37b39550793bcaa0982a13792526ea27141820d7"
-  integrity sha512-oxWTIfIM6v28Krl1fv3wrixHshkNMrp0vGiDO8W2qOgP2zSJCVx9KTagj3BY2tn9iyy4A7yuQZXKPmmzgfPyaQ==
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@uppy/drag-drop/-/drag-drop-4.2.1.tgz#0f4f1d27b61b9335715c687e3d34b0dda93235ca"
+  integrity sha512-WCrnUvVnbdviRMipmyNnRWy8rU84+TpPm2zaBeaO4v2dIhvWiIedVOeT8F3AKWxfQlQ1OXHnQbATQM4E35Yxow==
   dependencies:
-    "@uppy/utils" "^6.1.4"
+    "@uppy/utils" "^6.2.1"
     preact "^10.5.13"
 
 "@uppy/informer@^4.3.1":
