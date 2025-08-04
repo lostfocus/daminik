@@ -1583,13 +1583,13 @@
     p-retry "^6.1.0"
 
 "@uppy/core@^4.0.0":
-  version "4.5.1"
-  resolved "https://registry.yarnpkg.com/@uppy/core/-/core-4.5.1.tgz#30fb60bfe6e49c5f607e041a96ba112692841728"
-  integrity sha512-QIySR1EstRBHgH6YnomvxgxZbZkBr6CLoR7wC54Ex44HoY/I5YcK6SM/mAuFQaR0yAHI2SYW5W5ey7dPn+wDAw==
+  version "4.5.2"
+  resolved "https://registry.yarnpkg.com/@uppy/core/-/core-4.5.2.tgz#81a7f573ca338004aece544876a07f9f6e1af32c"
+  integrity sha512-5XoPJNcqEXtxtw+vg8EyqUFe11JSbG3/aln83Y7+CLbs7WOovYdfwwKEt1aTbfg1+ijsxudLchya5yh72jaLqw==
   dependencies:
     "@transloadit/prettier-bytes" "^0.3.4"
-    "@uppy/store-default" "^4.3.1"
-    "@uppy/utils" "^6.2.1"
+    "@uppy/store-default" "^4.3.2"
+    "@uppy/utils" "^6.2.2"
     lodash "^4.17.21"
     mime-match "^1.0.2"
     namespace-emitter "^2.0.1"
@@ -1660,10 +1660,10 @@
     classnames "^2.2.6"
     preact "^10.5.13"
 
-"@uppy/store-default@^4.3.1":
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/@uppy/store-default/-/store-default-4.3.1.tgz#710a5473b10bb87fb795c9cb5f9f166decdcd896"
-  integrity sha512-7/FIJXxGrF2QQ+X9MpSzXIZPbU9GXTtEZ9l8FWvxJ5fR9pjVFqfJ0MiLBGQsZlua9Kx/LhW51urFYeHAmbIN1w==
+"@uppy/store-default@^4.3.2":
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/@uppy/store-default/-/store-default-4.3.2.tgz#dd200b21e7c564729be5a1d688882f54709835cf"
+  integrity sha512-dnY9R2o8fwmO1bF89D0b5jijD7DGED2qVST5hI/j18JreLWzLKH7u6HuNmOvzok8msrQ/qWzQd5Gx4LDQKhBbw==
 
 "@uppy/thumbnail-generator@^4.2.1":
   version "4.2.1"
@@ -1673,10 +1673,10 @@
     "@uppy/utils" "^6.2.1"
     exifr "^7.0.0"
 
-"@uppy/utils@^6.1.4", "@uppy/utils@^6.2.1":
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-6.2.1.tgz#69a9579bd1864ffcbc179042e553e34930503eeb"
-  integrity sha512-snvbsepFXw1o9fOl8vnRtlBkT9/B0taZwo9rbKKCLjc1tWvBwJV4y8INOmn/+iYr+bEmYb5Cm6a1djHBChpsbg==
+"@uppy/utils@^6.2.1", "@uppy/utils@^6.2.2":
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/@uppy/utils/-/utils-6.2.2.tgz#78bf41a38b6a64e8823063a34a8150412e386df4"
+  integrity sha512-9mYJtbcngv2HOJIECkyfmdXTI5dW/ObCyvWP1Iti3E5bKtsa4sMmbx5Yh/tGCj8k/lBNhfvWyZuYnvnjmzNLSQ==
   dependencies:
     lodash "^4.17.21"
     preact "^10.5.13"
