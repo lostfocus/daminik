@@ -1630,9 +1630,9 @@
     preact "^10.5.13"
 
 "@uppy/locales@^4.0.0":
-  version "4.8.2"
-  resolved "https://registry.yarnpkg.com/@uppy/locales/-/locales-4.8.2.tgz#063857eef7e84348754c95d134358ccfa113233c"
-  integrity sha512-Go6vL5JTrSkGEx9UM1T7jEMgFYEDp8sbCeeDt2T2QbokZASsWxqBZWdxRgVsSAh84jnFA/EIMZNt2m2bbKfBNw==
+  version "4.8.3"
+  resolved "https://registry.yarnpkg.com/@uppy/locales/-/locales-4.8.3.tgz#2c5980cbf5970166377c0aa0f80005b55a871327"
+  integrity sha512-15d84YAr6n4AEh4xyObSN1bqNozvk/LtKUS15Q0R0xr3xHytiPxiLBHxkrZ0ctvymvwH7MKGIaKNZ5pQ/JWzbQ==
   dependencies:
     "@uppy/utils" "^6.2.2"
 
