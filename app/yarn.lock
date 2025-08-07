@@ -1597,14 +1597,14 @@
     preact "^10.5.13"
 
 "@uppy/dashboard@^4.0.0":
-  version "4.4.2"
-  resolved "https://registry.yarnpkg.com/@uppy/dashboard/-/dashboard-4.4.2.tgz#794d4d71ae6e47dc3f599d70e632ecc5c807b78c"
-  integrity sha512-bMp4pQFiL1v9BnQBunD3l2mUA05pVJ3PwxlbJNPGpvytGoUXk+fhiiGZsx/kXyU/QTRjI+6EQbn4EMJtC62UEA==
+  version "4.4.3"
+  resolved "https://registry.yarnpkg.com/@uppy/dashboard/-/dashboard-4.4.3.tgz#0271ab514c9cc1d3b9a0ffbb80de086741e7fac9"
+  integrity sha512-IwgDDTbk9p4OoAJvvvx6sQSemKTIJq9IDSryNVgbbC6NiR9HSyRcu0+WdOZLiR9DOhDg2oYcoNgv7DMlrktI6g==
   dependencies:
     "@transloadit/prettier-bytes" "^0.3.4"
     "@uppy/informer" "^4.3.2"
     "@uppy/provider-views" "^4.5.2"
-    "@uppy/status-bar" "^4.2.2"
+    "@uppy/status-bar" "^4.2.3"
     "@uppy/thumbnail-generator" "^4.2.2"
     "@uppy/utils" "^6.2.2"
     classnames "^2.2.6"
@@ -1647,10 +1647,10 @@
     p-queue "^8.0.0"
     preact "^10.5.13"
 
-"@uppy/status-bar@^4.2.2":
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/@uppy/status-bar/-/status-bar-4.2.2.tgz#c051653786d4004dddade6ced9dabedfdc51a8af"
-  integrity sha512-NOk2OVNS4lpJgjkxlD+shVPb2hmPF5beDnZb90a3qb8OiyEsYrDfC5Sx625f2IW3EUwPx6XCvAKBlgKh382X7g==
+"@uppy/status-bar@^4.2.3":
+  version "4.2.3"
+  resolved "https://registry.yarnpkg.com/@uppy/status-bar/-/status-bar-4.2.3.tgz#afd937e0c21a3551d6b101c186ffa9375ffd1dc4"
+  integrity sha512-0AtKdvNm3HHobuE4N0V8SrC3uWB9MQnjqMEL/gachW/1mi7iZ22V4veHd6Wub/tCBQAQbEklvz7d0hxcz/Fh9g==
   dependencies:
     "@transloadit/prettier-bytes" "^0.3.4"
     "@uppy/utils" "^6.2.2"
